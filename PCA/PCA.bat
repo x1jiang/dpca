@@ -1,0 +1,1 @@
+C:\"Program Files"\R\bin\Rscript.exe PCA.R -i samplein.txt -o sampleout.txt -e 1 -k 1
